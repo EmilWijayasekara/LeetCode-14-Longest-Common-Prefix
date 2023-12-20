@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=14 lang=java
- *
- * [14] Longest Common Prefix
- */
-
-// @lc code=start
 import java.util.Arrays;
 
 class Solution {
@@ -31,5 +24,3 @@ class Solution {
         }
     }
 }
-// @lc code=end
-
